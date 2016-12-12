@@ -32,5 +32,9 @@ Modif et creation des files.tml ( twig ) head.tpl, footer.tpl ect ... \www\Prest
 
 
 
+Utiliser les “hooks”
+
+https://www.prestashop.com/blog/fr/mieux_comprendre_et_utiliser_les_hooks_par_julien_breux/
+
 
 
