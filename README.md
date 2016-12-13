@@ -1,4 +1,4 @@
-# PrestaShop
+# PrestaShop DOC
 
 
 PrestaShop Info :
