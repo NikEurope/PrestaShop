@@ -13,7 +13,6 @@ https://themeforest.net/category/ecommerce/prestashop
 
 # # PrestaShop mapping :
 
-
 Modif Theme:
 
 GO to Theme \www\PrestaShop\themes\classic
@@ -29,7 +28,6 @@ Modif des tout pages \www\PrestaShop\themes\classic\templates\layouts  >  layout
 
 
 Modif et creation des files.tml ( twig ) head.tpl, footer.tpl ect ... \www\PrestaShop\themes\classic\templates\_partials
-
 
 
 Utiliser les “hooks”
